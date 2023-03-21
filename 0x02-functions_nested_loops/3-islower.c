@@ -5,6 +5,8 @@
  *
  * @c: checks input of function
  *
+ * Description: check lowercase
+ *
  * Return: returns 1 if 'c' is lowercase
  *         otherwise Always 0 (success)
  */
