@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * _isdigit - checks if input is digit between 0 - 9
  *
  * Description: check digit if between 0 - 9 or not
